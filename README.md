@@ -22,10 +22,20 @@
 "_blank">clique aqui</a></p>
 
 ## Screenshots
+**Tela inicial**
 ![tela ](assets/fotos/tela.png)
+<br>
+**Estação inverno**
 ![inverno](assets/fotos/inverno.png)
+<br>
+**Estação primavera**
 ![primavera ](assets/fotos/primavera.png)
+<br>
+**Estação verão**
 ![verão ](assets/fotos/verao.png)
+<br>
+**Estação outono**
 ![outono ](assets/fotos/outono.png)
+<br>
 </div>
 
